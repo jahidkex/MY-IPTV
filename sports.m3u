@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="COPA AMERICA" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.sBqr3jwaV7wkwIpdH3o8kwAAAA?w=202&h=144&c=7&r=0&o=5&pid=1.7" group-title=" COPA AMERICA",COPA AMERICA
+http://tv.soccerplus.link:8000/live/OscarL/CmJTi7JEcN/22982.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COPA AMERICA" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.sBqr3jwaV7wkwIpdH3o8kwAAAA?w=202&h=144&c=7&r=0&o=5&pid=1.7" group-title=" COPA AMERICA",COPA AMERICA
 http://animalstream.pro:8080/live/3@5shark@5@4/SanaleFM45@/27935.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COPA AMERICA" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.sBqr3jwaV7wkwIpdH3o8kwAAAA?w=202&h=144&c=7&r=0&o=5&pid=1.7" group-title=" COPA AMERICA",COPA AMERICA
 http://animalstream.pro:8080/live/3@5shark@5@4/SanaleFM45@/27936.m3u8
@@ -111,3 +113,15 @@ http://animalstream.pro:8080/live/3@5shark@5@4/SanaleFM45@/19357.m3u8
 http://animalstream.pro:8080/live/3@5shark@5@4/SanaleFM45@/19358.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports7." tvg-logo="https://logo.iptveditor.com/beinsports.png" group-title="BEIN SPORTS",beIN Sports7.
 http://animalstream.pro:8080/live/3@5shark@5@4/SanaleFM45@/19359.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="USA - ESPN 2 HD" tvg-logo="http://www.iptbest.xyz/logo/ESPN2HD.png" group-title=" ALL SPORTS",USA - ESPN 2 HD
+http://tv.soccerplus.link:8000/live/OscarL/CmJTi7JEcN/587.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS MAINT EVENT HD" tvg-logo="http://iptbest.xyz/logo/skysportfotball.png" group-title="PREMIER LEAGUE ⚽",SKY SPORTS MAINT EVENT HD
+http://tv.soccerplus.link:8000/live/OscarL/CmJTi7JEcN/90182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS PREMIER LEAGUE HD " tvg-logo="http://iptbest.xyz/logo/skysportpremierleague.png" group-title="PREMIER LEAGUE ⚽",SKY SPORTS PREMIER LEAGUE HD 
+http://tv.soccerplus.link:8000/live/OscarL/CmJTi7JEcN/90181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT ESPN 1" tvg-logo="https://th.bing.com/th/id/OIP.AnFXv0SIYiqzHRqXdlHnDQHaHC?pid=ImgDet&rs=1" group-title="CHAMPIONS LEAGUE ⚽",M+ LIGA CAMPEONES FHD
+http://newultra.xyz:8080/live/58feta26me56ge57/47wuma84duwe57/60283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M. LA LIGA" tvg-logo="https://th.bing.com/th/id/OIP._TT4TvVcBL4tOzBP48oqvAHaD1?pid=ImgDet&rs=1" group-title="ES/LA LIGA ⚽",DAZN LALIGA HD
+http://newultra.xyz:8080/live/58feta26me56ge57/47wuma84duwe57/60264.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2 FHD" tvg-logo="https://i.ibb.co/232nMzR/DAZNL2.png" group-title="ES/LA LIGA ⚽",DAZN LALIGA 2 FHD
+http://newultra.xyz:8080/58feta26me56ge57/47wuma84duwe57/60269
