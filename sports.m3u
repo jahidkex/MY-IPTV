@@ -82,6 +82,14 @@ http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:9F:96&stream=132615&extensio
 http://darktv.nl:80/play/live.php?mac=00:1a:79:a5:d8:94&stream=132615&extension=ts&play_token=VC5QdpbVW3
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY Sports Premier League HD" tvg-logo="http://geo-iptv.com/channels_icon/86109412331.png" group-title="PREMIER LEAGUE ⚽",SKY Sports Premier HD
 http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:9F:96&stream=38401&extension=ts&play_token=Cy3OWbzbmX
+
+#EXTINF:-1 tvg-id="" tvg-name="Premier League | 01" tvg-logo="http://198.71.53.246:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVxFgCqkV_CmLZUi2nGl5BvA9wyEoZ_uNqSeh-kc6tj7hN84c_OzRR46aoYEb-126pKdpHrVk7s6wBEwu6WUjkxM4g8wNA-YdkhdSj6x2n6sg.png" group-title="PREMIER LEAGUE ⚽"",Premier League | 01
+http://wabot.win:8080/BrendisNavidad2312/BrendisNavidad1224/88772
+#EXTINF:-1 tvg-id="" tvg-name="Premier League | 02" tvg-logo="http://tvstarlife.com/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVxFgCqkV_CmLZUi2nGl5BvA9wyEoZ_uNqSeh-kc6tj7hN84c_OzRR46aoYEb-126pKdpHrVk7s6wBEwu6WUjkxM4g8wNA-YdkhdSj6x2n6sg.png" group-title="PREMIER LEAGUE ⚽"",Premier League | 02
+http://wabot.win:8080/BrendisNavidad2312/BrendisNavidad1224/88773
+#EXTINF:-1 tvg-id="" tvg-name="Premier League | 03" tvg-logo="http://tvstarlife.com/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWVxFgCqkV_CmLZUi2nGl5BvA9wyEoZ_uNqSeh-kc6tj7hN84c_OzRR46aoYEb-126pKdpHrVk7s6wBEwu6WUjkxM4g8wNA-YdkhdSj6x2n6sg.png" group-title="PREMIER LEAGUE ⚽"",Premier League | 03
+http://wabot.win:8080/BrendisNavidad2312/BrendisNavidad1224/88774
+
 #EXTINF:-1 tvg-id="" tvg-name="LA LIGA1" tvg-logo="https://th.bing.com/th/id/OIP._TT4TvVcBL4tOzBP48oqvAHaD1?pid=ImgDet&rs=1" group-title="ES/LA LIGA ⚽",LA LIGA1
 http://animalstream.pro:8080/live/3@5shark@5@4/SanaleFM45@/18998.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LA LIGA2" tvg-logo="https://th.bing.com/th/id/OIP._TT4TvVcBL4tOzBP48oqvAHaD1?pid=ImgDet&rs=1" group-title="ES/LA LIGA ⚽",LA LIGA2
