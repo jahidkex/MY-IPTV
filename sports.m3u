@@ -73,6 +73,15 @@ http://animalstream.pro:8080/live/3@5shark@5@4/SanaleFM45@/18994.m3u8
 http://animalstream.pro:8080/live/3@5shark@5@4/SanaleFM45@/18995.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PREMIER3" tvg-logo="https://www.kemifilani.ng/wp-content/uploads/2020/12/Premier-League-EPL-2033.jpg" group-title="PREMIER LEAGUE ⚽",PREMIER3
 http://animalstream.pro:8080/live/3@5shark@5@4/SanaleFM45@/18996.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY Sports Premier League HD" tvg-logo="http://geo-iptv.com/channels_icon/86109412331.png" group-title="PREMIER LEAGUE ⚽",SKY Sports Premier League HD
+http://darktv.nl:80/play/live.php?mac=00:1a:79:a5:d8:94&stream=38401&extension=ts&play_token=VFfOzRDCuk
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY Sports Premier League HD" tvg-logo="http://geo-iptv.com/channels_icon/86109412331.png" group-title="PREMIER LEAGUE ⚽",SKY Sports Premier League 
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:9F:96&stream=132615&extension=ts&play_token=GRHkBdJOkg
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY Sports Premier League HD" tvg-logo="http://geo-iptv.com/channels_icon/86109412331.png" group-title="PREMIER LEAGUE ⚽",SKY Sports Premier
+http://darktv.nl:80/play/live.php?mac=00:1a:79:a5:d8:94&stream=132615&extension=ts&play_token=VC5QdpbVW3
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY Sports Premier League HD" tvg-logo="http://geo-iptv.com/channels_icon/86109412331.png" group-title="PREMIER LEAGUE ⚽",SKY Sports Premier HD
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:9F:96&stream=38401&extension=ts&play_token=Cy3OWbzbmX
 #EXTINF:-1 tvg-id="" tvg-name="LA LIGA1" tvg-logo="https://th.bing.com/th/id/OIP._TT4TvVcBL4tOzBP48oqvAHaD1?pid=ImgDet&rs=1" group-title="ES/LA LIGA ⚽",LA LIGA1
 http://animalstream.pro:8080/live/3@5shark@5@4/SanaleFM45@/18998.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LA LIGA2" tvg-logo="https://th.bing.com/th/id/OIP._TT4TvVcBL4tOzBP48oqvAHaD1?pid=ImgDet&rs=1" group-title="ES/LA LIGA ⚽",LA LIGA2
