@@ -40,7 +40,8 @@ http://animalstream.pro:8080/live/3@5shark@5@4/SanaleFM45@/18996.m3u8
 http://tv.jomysonplus.com:8000/live/praga2904/odk2IiywLy/90181.m3u8
 #EXTINF:-1 tvg-logo="http://geo-iptv.com/channels_icon/86109412331.png" group-title="PREMIER LEAGUE ⚽",SKY Sports Main Event
 http://tv.jomysonplus.com:8000/live/praga2904/odk2IiywLy/90182.m3u8
-
+#EXTINF:-1 tvg-logo="http://geo-iptv.com/channels_icon/86109412331.png" group-title="PREMIER LEAGUE ⚽",SKY Sports PL
+http://tv.jomysonplus.com:8000/live/praga2904/odk2IiywLy/95128.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY Sports Premier League HD" tvg-logo="http://geo-iptv.com/channels_icon/86109412331.png" group-title="PREMIER LEAGUE ⚽",SKY Sports Premier League HD
 http://darktv.nl:80/play/live.php?mac=00:1a:79:a5:d8:94&stream=38401&extension=ts&play_token=VFfOzRDCuk
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY Sports Premier League HD" tvg-logo="http://geo-iptv.com/channels_icon/86109412331.png" group-title="PREMIER LEAGUE ⚽",SKY Sports Premier League 
