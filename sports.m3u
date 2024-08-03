@@ -50,6 +50,9 @@ https://defitv.fun/live/Black1234/Black1234/13001.m3u8
 http://tv.jomysonplus.com:8000/live/praga2904/odk2IiywLy/95128.m3u8
 #EXTINF:-1 tvg-logo="http://geo-iptv.com/channels_icon/86109412331.png" group-title="PREMIER LEAGUE ⚽",SKY Sports PL FHD
 https://defitv.fun/live/Black1234/Black1234/13004.m3u8
+#EXTINF:-1 tvg-logo="http://geo-iptv.com/channels_icon/86109412331.png" group-title="PREMIER LEAGUE ⚽",SKY Sports Pl
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:00:9F:96&stream=132615&extension=m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY Sports Premier League HD" tvg-logo="http://geo-iptv.com/channels_icon/86109412331.png" group-title="PREMIER LEAGUE ⚽",SKY Sports Premier League HD
 http://darktv.nl:80/play/live.php?mac=00:1a:79:a5:d8:94&stream=38401&extension=ts&play_token=VFfOzRDCuk
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY Sports Premier League HD" tvg-logo="http://geo-iptv.com/channels_icon/86109412331.png" group-title="PREMIER LEAGUE ⚽",SKY Sports Premier League 
