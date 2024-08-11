@@ -1,4 +1,44 @@
 #EXTM3U
+
+BEE Sports
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://media.info/l/o/1/1539.1690027797.png",TNT Sports 1
+https://vipgoodlive-tvs.starcdn.live/TNT_Sports_1/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://media.info/l/o/1/1540.1690027877.png",TNT Sports 2
+https://vipgoodlive-tvs.starcdn.live/TNT_Sports_2/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://media.info/l/o/5/5712.1690027954.png",TNT Sports 3
+https://vipgoodlive-tvs.starcdn.live/TNT_Sports_3/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://media.info/l/o/1/1491.1690027975.png",TNT Sports 4
+https://vipgoodlive-tvs.starcdn.live/TNT_Sports_4/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-football-uk.svg",Sky Sports Football
+https://vipgoodlive-tvs.starcdn.live/Sky_Sports_Football_Live_TV/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://shorturl.at/fixL1",Sky Sports Main Event
+https://vipgoodlive-tvs.starcdn.live/Sky_Sports_Main_Event/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://shorturl.at/ivGI9",Sky Sports Premier League 
+https://vipgoodlive-tvs.starcdn.live/Sky_Sports_Premier_League/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://shorturl.at/ivGI9",Super Sports Premier League
+https://vipgoodlive-tvs.starcdn.live/SuperSport_Premier_League_Live_TV/index.m3u8 
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://media.info/i/lf/300/1507600280/1134.png",Sky Sports Cricket
+https://vipgoodlive-tvs.starcdn.live/Sky_Sports_Cricket_Live_TV/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://shorturl.at/muxQ3",Super Sports Cricket 
+https://vipgoodlive-tvs.starcdn.live/SuperSport_Cricket_Live_TV/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png",Bein Sports 
+https://vipgoodlive-tvs.starcdn.live/Bein_Sports_USA_Live_TV/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png",Bein Sports 2
+https://vipgoodlive-tvs.starcdn.live/Bein_Sports_English_2_Live_TV/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/faa723dac3eece2c865473edd83d65c9.png",LaLiga TV  
+https://vipgoodlive-tvs.starcdn.live/La_Liga_TV_Live_TV/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/faa723dac3eece2c865473edd83d65c9.png",Super Sports Laliga 
+https://vipgoodlive-tvs.starcdn.live/SuperSport_LaLiga_Live_TV/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBh7B8Yh26JiqbPty0wOGDH2l9HNHFE3QQUA&usqp=CAU",Premier Sports 1
+https://vipgoodlive-tvs.starcdn.live/Premier_Sports_1/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f1dc481ba9bdb4f1d02734d80a5c8f99.png", CBS Sports Network
+https://vipgoodlive-tvs.starcdn.live/CBS_Sports_Network_Live_TV/index.m3u8
+
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd5u8aXsy1_vHD0qcCK62btsveMi09xdAyh2iqGQRNFvg7R7-OX4yjpVOpRncewNfRi0w&usqp=CAU", ITV 1
+https://vipgoodlive-tvs.starcdn.live/ITV_1/index.m3u8
+#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEfwH33R0iqSiewRu8XUWNBTYD8jHDXVsB1GAlNGB7PoWQY-ErhDK8crrLzfHL3ZvKrII&usqp=CAU", ITV 2
+https://vipgoodlive-tvs.starcdn.live/ITV_2/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="FOOTBALL EUROPEO" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.DeKi34EeznHvl3olProbygHaGL?w=202&h=169&c=7&r=0&o=5&pid=1.7" group-title="EVENTS TODAY",FOOTBALL EUROPEO
 http://animalstream.pro:8080/live/3@5shark@5@4/SanaleFM45@/25126.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fubo Sports" tvg-logo="https://i.imgur.com/qFNRJLb.png" group-title="USA SPORTS",Fubo Sports
@@ -170,6 +210,14 @@ https://lobo-tv.live/live/belpley/sYqKZQrTZa/221868.m3u8
 http://lobo-tv.live/live/belpley/sYqKZQrTZa/2199944.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UEFA| Espn 2 ARG" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="CHAMPIONS LEAGUE ⚽",UEFA| TUDNXTRA
 http://lobo-tv.live/live/belpley/sYqKZQrTZa/2144819.m3u8
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://h.top4top.io/p_247357nqz1.png" group-title="CRICKET", Sky SPORTS CRICKET
 https://defitv.fun/live/Black1234/Black1234/12997.m3u8
