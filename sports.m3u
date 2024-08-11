@@ -1,6 +1,4 @@
 #EXTM3U
-
-BEE Sports
 #EXTINF:-1 group-title="BEE Sports" tvg-logo="https://media.info/l/o/1/1539.1690027797.png",TNT Sports 1
 https://vipgoodlive-tvs.starcdn.live/TNT_Sports_1/index.m3u8
 #EXTINF:-1 group-title="BEE Sports" tvg-logo="https://media.info/l/o/1/1540.1690027877.png",TNT Sports 2
