@@ -134,7 +134,9 @@ http://animalstream.pro:8080/live/3@5shark@5@4/SanaleFM45@/19009.m3u8
 http://animalstream.pro:8080/live/3@5shark@5@4/SanaleFM45@/19010.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="bein sports xtra ñ" tvg-logo="https://th.bing.com/th/id/OIP._TT4TvVcBL4tOzBP48oqvAHaD1?pid=ImgDet&rs=1" group-title="LA LIGA ⚽",bein sports xtra ñ
 http://animalstream.pro:8080/live/3@5shark@5@4/SanaleFM45@/19012.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA " tvg-logo="https://th.bing.com/th/id/OIP.D2DSJdXHX8wOPgQES_NorAHaHa?pid=ImgDet&rs=1" group-title="BUNDESLIGA ⚽",MOVISTAR LIGA 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Sky-sports-main-mix.jpg" group-title="BUNDESLIGA ⚽",Sky Sports Mix
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Mix_Live_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.D2DSJdXHX8wOPgQES_NorAHaHa?pid=ImgDet&rs=1" group-title="BUNDESLIGA ⚽",MOVISTAR LIGA 
 http://animalstream.pro:8080/live/3@5shark@5@4/SanaleFM45@/18789.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA " tvg-logo="https://th.bing.com/th/id/OIP.D2DSJdXHX8wOPgQES_NorAHaHa?pid=ImgDet&rs=1" group-title="BUNDESLIGA ⚽", BUNDESLIGA RAW
 http://select1.xyz:8080/live/hone1211/fHTQUFP/315465.m3u8
