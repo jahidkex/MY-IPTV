@@ -21,6 +21,8 @@ https://vipgoodlive-tvs.creativehub.sbs/EPL_05/index.m3u8
 https://vipgoodlive-tvs.creativehub.sbs/EPL_06/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.kemifilani.ng/wp-content/uploads/2020/12/Premier-League-EPL-2033.jpg" group-title="BEE Sports", EPL 3
 https://vipgoodlive-tvs.creativehub.sbs/EPL_04/index.m3u8
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Sky-sports-main-mix.jpg" group-title="BEE Sports",Sky Sports Mix
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Mix_Live_TV/index.m3u8
 #EXTINF:-1 group-title="BEE Sports" tvg-logo="https://media.info/i/lf/300/1507600280/1134.png",Sky Sports Cricket
 https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Cricket_Live_TV/index.m3u8
 #EXTINF:-1 group-title="BEE Sports" tvg-logo="https://m5.paperblog.com/i/740/7408004/how-to-fix-willow-tv-not-working-L-58_rSX.jpeg",Willow TV
