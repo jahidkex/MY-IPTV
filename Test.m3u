@@ -167,3 +167,14 @@ https://linear034-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_720_120/L
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00366649eb2eb82ee172e1bd310e4136:27e85c17d97722288ffa5970389d8baf
 https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31478/FHD/skysportf1/master.mpd
+
+#EXTINF:-1 group-title="TEST SPORTS", ZIGGO_SELECT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb4b78ef397646e3ae5f13bdb23d56ed:c1247a942c7126443a93214c67431fe8
+https://cors-proxy.cooks.fyi/https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportgolf/Manifest.mpd
+
+
+#EXTINF:-1 group-title="TEST SPORTS", VSPORTS_1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d808f2b9a74536cadbd95be141888ed:9dd89f67b8885dc65721a8b1fbeae700
+https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e91dbc891fd422efc9/manifest.mpd
