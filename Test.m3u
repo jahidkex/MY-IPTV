@@ -93,34 +93,6 @@ https://ssc-4-enc.edgenextcdn.net/out/v1/5267ea5772874b0db24559d643eaad93/index.
 #KODIPROP:inputstream.adaptive.license_key=c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888
 https://ssc-5-enc.edgenextcdn.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
 
-            
-
-
-#EXTINF:-1 group-title= "TEST SPORTS", ESPN_NL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
-https://da-d436234320010b88000103020000000000000005.id.cdn.upcbroadband.com/wp/wp1-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000107_019441.mpd
-
-
-#EXTINF:-1 group-title= "TEST SPORTS", ESPN_NL 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
-https://da-d436234420010b88000103020000000000000006.id.cdn.upcbroadband.com/wp/wp2-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000108_019561/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000108_019561.mpd
-
-
-
-#EXTINF:-1 group-title= "TEST SPORTS", ESPN_NL 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
-https://da-d436234320010b88000103020000000000000005.id.cdn.upcbroadband.com/wp/wp3-vxtoken-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000109_019464/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000109_019464.mpd
-
-
-#EXTINF:-1 group-title= "TEST SPORTS", ESPN_NL 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
-https://wp4-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000110_019562/_shared_05e8c13b39b3f30524c26012f903ed7f/NL_000110_019562.mpd
-
-
 
 
 #EXTINF:-1 group-title= "TEST SPORTS", SSC_EXTRA1
@@ -143,6 +115,33 @@ https://ssc-extra-3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/
 #KODIPROP:inputstream.adaptive.license_key=3d04975236a44f62857d181597705ee6:362133e9cb13189ad4fe095ced216f60
 https://ssc-news-enc.edgenextcdn.net/out/v1/ef466f43623c4bbaa3f905b566ec35ea/index.mpd
  
+
+
+#EXTINF:-1 group-title="Go3 Sport" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png", Go3 Sport Extra 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf9689067bc0465593084d7832982fd1:07454bafd70413ab57a3eb25de2c79c3
+https://cdn9.tvplayhome.lt/live/eds2/VIP1/GO3_LIVE_DASH_AVC/VIP1.mpd
+
+#EXTINF:-1 group-title="Go3 Sport" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png", Go3 Sport Extra 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:dbb490040f3fece7959603e46e8314ab
+https://cdn9.tvplayhome.lt/live/eds2/VIP2/GO3_LIVE_DASH_AVC/VIP2.mpd
+
+#EXTINF:-1 group-title="Go3 Sport" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png", Go3 Sport Extra 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:37a8b1230dbeff0a11ce0af9bd3445e3
+https://cdn9.tvplayhome.lt/live/eds2/VIP3/GO3_LIVE_DASH_AVC/VIP3.mpd
+
+#EXTINF:-1 group-title="Go3 Sport" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png", Go3 Sport Extra 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:37a8b1230dbeff0a11ce0af9bd3445e3
+https://cdn9.tvplayhome.lt/live/eds2/VIP4/GO3_LIVE_DASH_AVC/VIP4.mpd
+
+
+
+
+
+
 
  
 #EXTINF:-1 group-title= "TEST SPORTS", TNT1
