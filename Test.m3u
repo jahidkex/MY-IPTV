@@ -1,6 +1,7 @@
 #EXTM3U
 
 ====================== Champion Trophy ===================================================
+
 #EXTINF:-1 group-title="TEST SPORTS", AMAZON_CRICKET_ENG
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb8daf414566aa17d06f8294f3f3b444:89d58908a57d70ef87bf16c9b5821ca2
